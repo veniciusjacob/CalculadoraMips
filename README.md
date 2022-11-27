@@ -2,7 +2,7 @@
 
 <p>Calculadora desenvolvida em MIPS para a disciplina de Programação em Baixo Nível.</p>
 
-<h2>Operações que são possiveis fazer na calculadora: </h2>
+<h2>Operações que são possíveis fazer na calculadora: </h2>
 
 <ol>
 	<li>Adição</li>
